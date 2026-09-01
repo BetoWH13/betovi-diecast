@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betovi-co.com/sitemap.xml
